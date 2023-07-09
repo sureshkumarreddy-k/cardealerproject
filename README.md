@@ -1,6 +1,6 @@
 # cardealerproject
-# A Car dealer wants to automate the billing process of cars based on the car selected. The
-# the showroom price). Car dealer can apply discount only if the
+A Car dealer wants to automate the billing process of cars based on the car selected. The
+the showroom price). Car dealer can apply discount only if the
 customer opts in for either insurance or additional accessories and cannot cross 30,000.
 There should be an error saying maximum discount to be applied should not cross 30,000 and
 only apply 30,000 as discount.

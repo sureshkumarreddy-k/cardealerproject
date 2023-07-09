@@ -1,25 +1,6 @@
 # cardealerproject
-A Car dealer wants to automate the billing process of cars based on the car selected. The
-customer has the options to choose below.
-Car Model Cost(Showroom price)
-Polo Trendline 8.70 lakh
-Polo Highline 10.09 lakh
-Virtus Trendline 11.05 lakh
-Virtus Highline 13.08 lakh
-Taigun Trendline 14.89 lakh
-Taigun Highline 15.42 lakh
-Taigun Topline 17.71 lakh
-Once the customer has selected the car, additional taxes and fees has to be paid as given
-below
-Fee type Cost
-RTO 1,13,990
-Insurance 47,300
-TCS charges 11,000
-Additional Accessories 15,000
-In the additional section customers have an option to opt out for insurance and additional
-accessories.
-The car dealer has an option to give a discount either in percentage or in rupees(Dealer
-discount has to be applied on the showroom price). Car dealer can apply discount only if the
+# A Car dealer wants to automate the billing process of cars based on the car selected. The
+# the showroom price). Car dealer can apply discount only if the
 customer opts in for either insurance or additional accessories and cannot cross 30,000.
 There should be an error saying maximum discount to be applied should not cross 30,000 and
 only apply 30,000 as discount.

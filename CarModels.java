@@ -1,4 +1,3 @@
-
 public class CarModels {
 	//public static void main(String args[]) {
 		public void model() {
